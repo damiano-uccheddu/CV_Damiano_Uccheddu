@@ -1,4 +1,4 @@
-# Damiano Uccheddu – Academic CV[^1] 
+# Damiano Uccheddu – Academic CV [^1] 
 
 ---
 
