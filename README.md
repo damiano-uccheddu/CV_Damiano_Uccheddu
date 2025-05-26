@@ -1,6 +1,4 @@
-# Damiano Uccheddu – Academic CV 
-
-CV version: 22/05/2025
+# Damiano Uccheddu – Academic CV[^1] 
 
 ---
 
@@ -14,3 +12,5 @@ Find up‑to‑date information on projects, publications, conferences, and gran
 `quantitative sociology` | `life course research` | `SHARE data` | `welfare states`  
 `intergenerational relationships` | `ageing population` | `social epidemiology` | `gender disparities`  
 `longitudinal analysis` | `fixed-effects models` | `register data` | `cross-national comparisons`
+
+[^1]: CV version: 26/05/2025
