@@ -13,4 +13,4 @@ Find up‑to‑date information on projects, publications, conferences, and gran
 `intergenerational relationships` | `ageing population` | `social epidemiology` | `gender disparities`  
 `longitudinal analysis` | `fixed-effects models` | `register data` | `cross-national comparisons`
 
-[^1]: CV version: 02/09/2025 
+[^1]: CV version: 07/10/2025
