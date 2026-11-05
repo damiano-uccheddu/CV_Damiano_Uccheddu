@@ -2,7 +2,7 @@
 
 ---
 
-This repository hosts the latest **Curriculum Vitae of Damiano Uccheddu**, Postdoctoral Researcher in Sociology and Family Demography at UCLouvain. 
+This repository hosts the latest **Curriculum Vitae of Damiano Uccheddu**, postdoctoral researcher at the University of Louvain (UCLouvain). 
 Find up‑to‑date information on projects, publications, conferences, and grants.
 
 ---
@@ -13,4 +13,4 @@ Find up‑to‑date information on projects, publications, conferences, and gran
 `intergenerational relationships` | `ageing population` | `social epidemiology` | `gender disparities`  
 `longitudinal analysis` | `fixed-effects models` | `register data` | `cross-national comparisons`
 
-[^1]: CV version: 07/05/2026
+[^1]: CV version: 05/11/2026
